@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Goodbye To Romance",
+  "base_artist": "SunnyHill(써니힐)",
+  "createdAt": "2026-02-24T04:17:19.659750Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Goodbye to Romance",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/01_Goodbye_to_Romance_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Goodbye to Romance",
+      "artist": "Ozzy Osbourne",
+      "has_synced": false,
+      "path": "select/02_Goodbye_to_Romance_Ozzy_Osbourne.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Goodbye To Romance",
+      "artist": "Osbourne,Ozzy",
+      "has_synced": true,
+      "path": "select/03_Goodbye_To_Romance_Osbourne,Ozzy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Goodbye to Romance",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/04_Goodbye_to_Romance_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Goodbye to Romance - 2010 Guitar & Vocal Mix",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/05_Goodbye_to_Romance_-_2010_Guitar_&_Vocal_Mix_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Goodbye To Romance (Album Version)",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/06_Goodbye_To_Romance_(Album_Version)_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Goodbye to Romance (2010 Guitar & Vocal Mix)",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/07_Goodbye_to_Romance_(2010_Guitar_&_Vocal_Mix)_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Goodbye to Romance (Live)",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/08_Goodbye_to_Romance_(Live)_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Goodbye to Romance (Live)",
+      "artist": "Ozzy Osbourne",
+      "has_synced": false,
+      "path": "select/09_Goodbye_to_Romance_(Live)_Ozzy_Osbourne.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Goodbye to Romance (Remastered)",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/10_Goodbye_to_Romance_(Remastered)_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Goodbye to Romance (2010 guitar & vocal mix)",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/11_Goodbye_to_Romance_(2010_guitar_&_vocal_mix)_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Goodbye To Romance",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/12_Goodbye_To_Romance_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Goodbye to Romance - Live 1980",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/13_Goodbye_to_Romance_-_Live_1980_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Goodbye To Romance",
+      "artist": "サニーヒル",
+      "has_synced": false,
+      "path": "select/pl_01_Goodbye_To_Romance_サニーヒル.txt"
+    }
+  ]
+}
